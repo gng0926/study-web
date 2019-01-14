@@ -1,0 +1,77 @@
+<form action="B.HTML" method=:"get">
+			method="post"	
+<input type="text" name="ID">
+<input type="password"name="PW">
+<input type="submit">
+</from>
+>>>>>>>http://~/B.HTML?
+ID=ssar&pw=1234
+
+HTML 데이터 전송방식
+
+1.GET
+- 중요하지 않은 데이터 전송
+- 255byte데이터를 전송
+- 주소에 노출
+
+2.POST
+- 중요한 데이터 전송
+- 대용량 데이터를 전송할 수 있음.
+- 주소에 노출 되지 않음.
+- header에 숨겨서 전송
+
+46개*2=92개
+
+2의6승 64개
+
+2의7승=128개
+
+박스가 7개~영어문자를 표현
+
+문자하나를 전송-8bit
+
+들여쓰기 tab 반대로 shft+tab
+
+autoplay 인터넷창 시작함과 동시에 실행
+loop 무한반복
+allowfullscreen:전체화면
+
+CSS(Cascading style sheet)
+span {color : blue; font-size : 20px;}
+셀렉터 프로퍼티 값	글자크기 값
+
+CSS : 중괄호를 시작하여 콜론 세미콜론을 
+넣는다
+Clss: 중복가능
+id : 중복불가능
+margin : 0(top) 0(3시) 0(6시) 0(9시)(left)
+margin : 50px, 0 (아래위로)
+	 0	50px(양옆으로)
+width:30px 70px;
+padding:늘리기
+
+<HEAD>
+    <STYLE>
+	 DIV{background-color:red;
+    </style>
+    #d1{속성:값;}
+    .d2{속성:값;}:class
+p:단락
+<span>:조그만한 내용제어
+<header>시멘틱태그
+
+홈페이지 구성
+<HEADER>
+<MAIN>
+<SECTION>
+<SECTION>
+<MAIN>
+<FOOTER>
+<float>블럭자리배치
+<float>에 구애받지 않는 것<clear>
+ padding:0px;
+ margin:0px;
+ box-sizing:border-box;
+
+absolute는 relative를 따라다닌다.
+static:고정

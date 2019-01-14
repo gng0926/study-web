@@ -1,0 +1,36 @@
+<HTML>
+<body>
+<h1>Hello WORLD<h1>
+<li>HTML</li>
+<li>CSS</li>
+<li>Javascript</li>
+</body>
+</html>
+
+192.168.0.70
+
+HTTP://192.168.0.87
+= 내컴퓨터
+
+HTTP://192.168.0.87:5500
+=C:\workspace\study-web
+
+HTTP://192.168.0.87:5500/img/1.png
+
+HTML 
+
+- HyperText(링크)
+- Markup tag
+- Language
+
+HTML5 페이지의 기본 구조
+<!DOCTYPE html> : 필수조건
+<HTML>
+
+<HEAD
+<h1>~<h6> 소제목
+<!DOCTYPE html>
+<BR>ENTER
+<HR>내용
+<P> 단락만들때
+
